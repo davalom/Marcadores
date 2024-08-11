@@ -46,9 +46,9 @@
 
 ## De pago con soporte a revendedores
 
-[Easypanel](https://easypanel.io/)  (Moderno basado en contenedores)
+[Easypanel](https://easypanel.io/)  (Basado en contenedores)
 
-[Enhance](https://enhance.com/) (Moderno basado en contenedores)
+[Enhance](https://enhance.com/) Basado en contenedores)
 
 [Direct Admin](https://www.directadmin.com/)
 
